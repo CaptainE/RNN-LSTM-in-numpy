@@ -1,6 +1,6 @@
 # How to build RNNs and LSTMs from scratch
 
-Originally developed by me (Nicklas Hansen), Peter Christensen and Alexander Johansen as educational material for the graduate deep learning course at the Technical University of Denmark (DTU). You can access the full course material [here](https://github.com/DeepLearningDTU/02456-deep-learning-with-PyTorch).
+Originally developed by me (Peter Christensen), Nicklas Hansen, and Alexander Johansen as educational material for the graduate deep learning course at the Technical University of Denmark (DTU). You can access the full course material [here](https://github.com/DeepLearningDTU/02456-deep-learning-with-PyTorch).
 ____
 
 In this lab we will introduce different ways of learning from sequential data.
